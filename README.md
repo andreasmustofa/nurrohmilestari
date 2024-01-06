@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo Website]([https://andreitnet.github.io/nurrohmilestari/])
+https://andreitnet.github.io/nurrohmilestari/
 
 ## 🚀 How to Use
 

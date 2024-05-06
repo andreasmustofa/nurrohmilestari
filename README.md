@@ -8,10 +8,10 @@ https://andreasmustofa.github.io/nurrohmilestari/
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/fajarghifar/happybirthday
+    $ git clone https://github.com/andreasmustofa/nurrohmilestari
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd nurrohmilestari
 
     # Open it with your text editor
     $ code .

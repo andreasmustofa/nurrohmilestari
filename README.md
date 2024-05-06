@@ -8,7 +8,7 @@ https://andreasmustofa.github.io/nurrohmilestari/
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/andreasmustofa/nurrohmilestari
+    $ git clone https://github.com/andreasmustofa/nurrohmilestari.git
 
     # Go into the repository
     $ cd nurrohmilestari
